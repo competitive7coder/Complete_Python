@@ -1,7 +1,6 @@
 # Complete Python Basics
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 A comprehensive, well-structured repository dedicated to foundational and advanced Python programming concepts. This project is designed to serve as a robust reference guide and a practical learning resource for developers of all skill levels.
@@ -76,6 +75,3 @@ Contributions are highly encouraged to enhance the repository's educational valu
 4. Push the branch (`git push origin feature/YourFeatureName`).
 5. Open a Pull Request for review.
 
-## 📄 License
-
-This project is licensed under the MIT License. You are free to utilize, modify, and distribute the code in accordance with the license terms.
