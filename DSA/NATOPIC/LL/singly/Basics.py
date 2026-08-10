@@ -23,3 +23,27 @@ current = head
 while current: # Gives 1, 2 and 3
     print(current.val)
     current = current.next
+
+
+new_node = ListNode(0)
+
+new_node.next = head
+head = new_node
+
+
+new_node = ListNode(4)
+
+current = head
+
+while current.next:
+    current = current.next
+
+current.next = new_node
+
+
+
+current = head
+
+while current:
+    print(current.val)
+    current = current.next
